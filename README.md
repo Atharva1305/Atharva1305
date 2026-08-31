@@ -48,14 +48,27 @@ Electronics & Telecommunication student at VIT Pune with hands-on experience in 
 
 ![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-EF3B2D?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)---
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
-## Featured Projects
+---
 
-- Smart Desk Assistant (ESP32-C3)
-- IoT Smart Energy Meter
-- STM32 Driver Library
-- PCB Design Portfolio
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva1305&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva1305&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech |
+|---------|------|
+| 🔋 Smart Energy Meter | ESP32, IoT, PCB |
+| 🤖 Smart Desk Assistant | ESP32-C3, Blynk |
+| ⚙️ STM32 Driver Library | STM32, Embedded C |
+| 📟 PCB Design Portfolio | KiCad, Eagle |
 
 
 
@@ -65,3 +78,12 @@ Electronics & Telecommunication student at VIT Pune with hands-on experience in 
 
 - LinkedIn: www.linkedin.com/in/atharvabhagwat13
 - Email: atharvabhagwat2006@gmail.com
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharva1305/Atharva1305/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
