@@ -20,22 +20,11 @@ Electronics & Telecommunication student at VIT Pune with hands-on experience in 
 
 ## Tech Stack
 
-### Programming
-
-C • C++ • Embedded C • Python • 8051 ALP
-
-### Microcontrollers
-
-STM32 • ESP32 • ESP8266 • LPC2148 • ATmega328P
-
-### Tools
-
-STM32CubeIDE • KiCad • Eagle • MATLAB • Arduino IDE
-
-### IoT
-
-Blynk • ThingSpeak • MQTT
-
+![C](https://img.shields.io/badge/C-blue)
+![STM32](https://img.shields.io/badge/STM32-03234B)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 ---
 
 ## Featured Projects
