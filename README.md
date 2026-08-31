@@ -49,5 +49,5 @@ Blynk • ThingSpeak • MQTT
 
 ## Connect With Me
 
-- LinkedIn
+- LinkedIn: www.linkedin.com/in/atharvabhagwat13
 - Email: atharvabhagwat2006@gmail.com
